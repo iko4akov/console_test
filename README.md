@@ -1,1 +1,1 @@
-*repository test file*
+/repository test file/
