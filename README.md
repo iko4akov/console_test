@@ -10,15 +10,7 @@ minus line
 
 ***
 Горизонтальный разделитель stars
-***\
-
-
-
----
-horizontal rule minus
----
-
-
+***
 
 * Элемент списка stars*
     + element list plus +
@@ -29,6 +21,10 @@ horizontal rule minus
     1. order element list
     2. order element list
 
-'''
-git remote add origin chapter1.html
-'''
+---
+horizontal rule minus
+---
+
+    '''
+    git remote add origin chapter1.html
+    '''
