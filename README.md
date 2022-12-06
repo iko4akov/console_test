@@ -10,11 +10,15 @@ minus line
 
 ***
 Горизонтальный разделитель stars
-***
+***\
+
+
 
 ---
 horizontal rule minus
 ---
+
+
 
 * Элемент списка stars*
     + element list plus +
